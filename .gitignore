@@ -9,6 +9,10 @@
 _tmp*
 tmp*
 tags
+datasets
+gpytorch_repo
+plots
+res_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
