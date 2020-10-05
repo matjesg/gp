@@ -3,7 +3,9 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"ExactGPModel": "00_core.ipynb",
-         "nv_cost": "00_core.ipynb"}
+         "MultitaskGPModel": "00_core.ipynb",
+         "nv_cost": "00_core.ipynb",
+         "week_of_month": "00_core.ipynb"}
 
 modules = ["core.py"]
 
